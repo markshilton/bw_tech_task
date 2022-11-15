@@ -1,0 +1,5 @@
+facility_match,temp_over_1450,observation_count
+False,False,78609
+False,True,10329
+True,False,4332
+True,True,690

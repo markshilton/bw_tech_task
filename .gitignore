@@ -1,0 +1,5 @@
+data/osm_oil_and_gas_points/*
+data/osm_oil_and_gas_polygons/*
+data/vnf_measurements_2017.csv
+data/facilities_combined.geojson
+data/flare_clusters.geojson
